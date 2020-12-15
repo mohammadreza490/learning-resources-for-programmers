@@ -5,3 +5,4 @@
 - [A Beginner’s Guide to Optimizing Pandas Code for Speed](https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6)
 - [What Is the Walrus Operator in Python?](https://medium.com/better-programming/what-is-the-walrus-operator-in-python-5846eaeb9d95)
 - [Understand __slots__ in Python](https://towardsdatascience.com/understand-slots-in-python-e3081ef5196d)
+- [The Reason Behind if __name__ == ‘__main__’ in Python](https://medium.com/better-programming/the-reason-behind-if-name-main-in-python-e633634f0dd0)
