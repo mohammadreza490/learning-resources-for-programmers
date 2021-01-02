@@ -1,4 +1,5 @@
 # General Programming Related Articles: 
+- [What is edge computing?](https://www.theverge.com/circuitbreaker/2018/5/7/17327584/edge-computing-cloud-google-microsoft-apple-amazon)
 - [Software Developer Trends of 2020 and Beyond](https://medium.com/better-programming/software-developer-trends-of-2020-and-beyond-d1b955bc46b8)
 - [5 Signs That You’re Wasting Your Life As A Developer](https://medium.com/madhash/5-signs-that-youre-wasting-your-life-as-a-developer-131607ff1998)
 - [Windows 10 Still Won’t Let You Use These File Names Reserved in 1974](https://www.howtogeek.com/fyi/windows-10-still-wont-let-you-use-these-file-names-reserved-in-1974/)
