@@ -7,3 +7,4 @@
 - [The QUIC Internet. It’s the future!](https://anuradhawick.medium.com/the-quic-internet-its-the-future-d903440b26ea)
 - [Data Transmission – Parallel vs Serial](https://www.quantil.com/content-delivery-insights/content-acceleration/data-transmission/)
 - [Make Passive Income Programming — 5 Incomes for Software Developers](https://medium.com/swlh/make-passive-income-programming-5-incomes-for-software-developers-fd605395db71)
+- [What's the difference between scripting and coding?](https://skillcrush.com/blog/coding-vs-scripting/)
