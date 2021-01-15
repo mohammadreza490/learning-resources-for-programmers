@@ -8,3 +8,4 @@
 - [Data Transmission – Parallel vs Serial](https://www.quantil.com/content-delivery-insights/content-acceleration/data-transmission/)
 - [Make Passive Income Programming — 5 Incomes for Software Developers](https://medium.com/swlh/make-passive-income-programming-5-incomes-for-software-developers-fd605395db71)
 - [What's the difference between scripting and coding?](https://skillcrush.com/blog/coding-vs-scripting/)
+- [SQL vs. NoSQL Databases: What's the Difference?](https://www.ibm.com/cloud/blog/sql-vs-nosql)
