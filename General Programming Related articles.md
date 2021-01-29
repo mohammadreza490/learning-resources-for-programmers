@@ -1,5 +1,5 @@
 # General Programming Related Articles:
-
+- [An Honest Guide to Building a Powerful Developer Portfolio](https://medium.com/better-programming/an-honest-guide-to-build-a-decent-and-powerful-developer-portfolio-2319f2cc2c19)
 - [9 Things Every Developer Should Do](https://medium.com/better-programming/9-things-every-developer-should-do-f1aebd395b98)
 - [What is edge computing?](https://www.theverge.com/circuitbreaker/2018/5/7/17327584/edge-computing-cloud-google-microsoft-apple-amazon)
 - [Software Developer Trends of 2020 and Beyond](https://medium.com/better-programming/software-developer-trends-of-2020-and-beyond-d1b955bc46b8)
