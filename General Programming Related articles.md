@@ -1,4 +1,5 @@
 # General Programming Related Articles:
+- [Core vs CPU vs Socket vs Chip vs Processor Difference Comparison](https://www.teqlog.com/core-vs-cpu-socket-chip-processor-difference-comparison.html)
 - [An Honest Guide to Building a Powerful Developer Portfolio](https://medium.com/better-programming/an-honest-guide-to-build-a-decent-and-powerful-developer-portfolio-2319f2cc2c19)
 - [9 Things Every Developer Should Do](https://medium.com/better-programming/9-things-every-developer-should-do-f1aebd395b98)
 - [What is edge computing?](https://www.theverge.com/circuitbreaker/2018/5/7/17327584/edge-computing-cloud-google-microsoft-apple-amazon)
