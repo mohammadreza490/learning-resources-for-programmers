@@ -1,3 +1,7 @@
+# Flutter Videos:
+- [Dart Null Safety: The Ultimate Guide to Non-Nullable Types](https://youtu.be/aZtjcbsdwTo)
+
+
 # Flutter Articles: 
 - [Some Flutter Libraries that will make your life easier in 2021](https://efikas.medium.com/some-flutter-libraries-that-will-make-your-life-easier-in-2021-591a8bd73159)
 - [Live Streaming With Mux, Stream, and Flutter](https://medium.com/flutter-community/live-streaming-with-mux-stream-and-flutter-2c03d581b1b)
