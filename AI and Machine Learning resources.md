@@ -1,4 +1,5 @@
-# Machine Learning Articles: 
+# Machine Learning Articles:
+- [Functional programming for deep learning](https://towardsdatascience.com/functional-programming-for-deep-learning-bc7b80e347e9)
 - [The Case for Causal AI](https://ssir.org/articles/entry/the_case_for_causal_ai#)
 - [Nvidia developed a radically different way to compress video calls](https://arstechnica.com/gadgets/2020/11/nvidia-used-neural-networks-to-improve-video-calling-bandwidth-by-10x/)
 - [Can Artificial Intelligence Be Conscious?](https://medium.com/@cameronmclain/can-artificial-intelligence-be-conscious-e316c2ac4769)
